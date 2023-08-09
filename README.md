@@ -27,18 +27,17 @@
 <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=css&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 
 <br>
 <br>
   
-| ![Jheyluis's github stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&theme=tokyonight) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&theme=tokyonight) |
+| ![Jhey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&theme=tokyonight) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
