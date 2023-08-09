@@ -14,23 +14,24 @@
 
 - 🔭 I’m currently studying.
   
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning PHP, Ruby on Rails, Kotlin and Android Studio.
   
 - 👯 I’m looking to collaborate on projects.
   
 - 💬 Ask me about Python, JavaScript and HTML5.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rails.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/perl.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=javascript&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'> </a>
+<a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=css&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg'> </a>
+ <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
 
 <br>
   
@@ -39,6 +40,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 
 <br>
