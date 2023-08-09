@@ -34,6 +34,7 @@
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
 
 <br>
+<br>
   
 | ![Jheyluis's github stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&theme=tokyonight) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&theme=tokyonight) |
 | --- | --- |
