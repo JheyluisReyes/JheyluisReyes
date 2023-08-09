@@ -25,6 +25,7 @@
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=javascript&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'> </a>
 <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=css&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'> </a>
+<a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg'> </a>
