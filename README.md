@@ -34,8 +34,8 @@
 <br>
 <br>
 
-| ![Jheyluis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&bg_color=30,ee9ca7,ffdde1&title_color=fff&text_color=fff) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&disable_animations=false&bg_color=30,ee9ca7,ffdde1&title_color=fff&text_color=fff) |
+| ![Jheyluis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&theme=omni) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&disable_animations=false&theme=omni) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&disable_animations=false&theme=midnight-purple) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=midnight-purple) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&disable_animations=false&theme=omni) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=omni) |
 
 <br>
