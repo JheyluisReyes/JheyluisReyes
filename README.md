@@ -33,7 +33,7 @@
 
 <br>
 <br>
-  
+
 | ![Jheyluis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&disable_animations=false&theme=midnight-purple) | ![Jheyluis GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JheyluisReyes&disable_animations=false&theme=midnight-purple) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JheyluisReyes&disable_animations=false&theme=midnight-purple) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=JheyluisReyes&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=midnight-purple) |
